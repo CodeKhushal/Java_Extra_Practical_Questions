@@ -1,3 +1,5 @@
+//To find the sum of any integers entered as command line arguments.
+
 import java.io.*;
 public class SumElements {
     public static void main(String[] args) {        // in java args[0] is not name of file 
