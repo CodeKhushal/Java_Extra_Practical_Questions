@@ -1,5 +1,3 @@
-package com.company;
-
 class Test{
     int a;		//default access
     public int b;	//public  access
