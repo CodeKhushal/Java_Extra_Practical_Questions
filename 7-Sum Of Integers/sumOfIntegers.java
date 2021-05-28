@@ -8,8 +8,10 @@ public class sumOfIntegers {
             num = scan.nextInt();
             sum += num;
             System.out.println("The sum of numbers is: " + sum);
+            System.out.println();
             System.out.print("Do you want to continue this program: PRESS 1 ");
             c = scan.nextInt();
+            System.out.println();
         } while (c == 1);
     }
 }
