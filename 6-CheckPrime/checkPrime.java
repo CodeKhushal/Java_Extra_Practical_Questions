@@ -1,6 +1,6 @@
 //This program will repeatedly ask the user for an integer and tell that the entered number is prime or not.
 import java.util.Scanner;
-public class checkPrime {
+public class CheckPrime {
 
     static public void checkPrime()
     {
