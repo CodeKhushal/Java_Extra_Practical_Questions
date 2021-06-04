@@ -1,6 +1,6 @@
 package P2;
 
-import P1.*;
+import P1.TwoDim;
 public class ThreeDim extends TwoDim {
     private int z;
     public ThreeDim() {
